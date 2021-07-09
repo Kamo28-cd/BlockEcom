@@ -5,9 +5,11 @@ This Blockchain Ecommerce store uses ERC20 Smart Contracts built in Solidity
 to allow users to buy products on the store.
 It uses the Daistablecoin Smart mock contract from OpenZeppelin in order to avoid the volatility
 of Cryptocurrency and allows users to purchase products using Stable Cryptocurrency pegged against the USD
+This project uses ReactJS to dynamically load and update content
+It can easily be inegrated into other Ethereum based projects
 
 The technologies used:
-Languages: Javascript, Solidity
+Languages: Javascript, Solidity, HTML, CSS
 
 Libraries & Runtime: ReactJS, Web3, Ethers, NodeJS
 Database: MongoDB
