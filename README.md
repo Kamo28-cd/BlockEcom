@@ -13,7 +13,9 @@ Libraries & Runtime: ReactJS, Web3, Ethers, NodeJS
 Database: MongoDB
 
 # Installation
-run the following to install dependencies:
+Download the repository
+inside in the main folder, /backend and /frontend
+run the following to install dependencies in each folder:
 ```npm install```
 
 make sure to set up your MongoDB database using a connection string inside /backend folder
